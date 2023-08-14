@@ -1,0 +1,1 @@
+"{{#user}\nName: Nikita\nSkills: HTML, CSS, JS, jQuery, Bootstrap, Node.js, Express.js, MongoDB, MySQL\nEmail: nikitamane4699@gmail.com\n{{/user}}" 
